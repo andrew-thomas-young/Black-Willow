@@ -84,7 +84,7 @@ header a:hover {
 
 #showcase {
     min-height: 400px;
-    background: url('../img/dynamics.mp4') no-repeat 0 -400px;
+    /* background: url('../img/dynamics.mp4') no-repeat 0 -400px; */
     text-align: center;
     color: #ffffff;
 }
