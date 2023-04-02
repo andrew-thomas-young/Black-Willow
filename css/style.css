@@ -176,6 +176,12 @@ footer {
 /* Media Queries */
 @media(max-midth: 768px) {
 
+    /* For devices with a screen width of 768px or less */
+    video {
+      width: 100%; /* Set the video width to 100% of the container */
+      height: auto; /* Set the video height to auto to maintain aspect ratio */
+    }
+
     header #branding,
     header nav,
     header nav li,
